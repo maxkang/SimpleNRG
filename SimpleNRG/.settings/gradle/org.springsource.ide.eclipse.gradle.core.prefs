@@ -1,0 +1,5 @@
+#org.springsource.ide.eclipse.gradle.core.preferences.GradleProjectPreferences
+#Wed Jul 06 22:14:02 EDT 2016
+build.family.org.gradle.tooling.model.eclipse.HierarchicalEclipseProject=;LoadBalancer;Metronome;Snapper;
+org.springsource.ide.eclipse.gradle.linkedresources=
+org.springsource.ide.eclipse.gradle.rootprojectloc=
